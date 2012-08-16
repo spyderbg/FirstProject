@@ -1,0 +1,43 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wallet/Contact/ContactViewController.cs">
+    <Files>
+      <File FileName="Wallet/WalletViewController.cs" Line="64" Column="4" />
+      <File FileName="Deals/DealsViewController.cs" Line="36" Column="3" />
+      <File FileName="Account/AccountViewController.cs" Line="17" Column="95" />
+      <File FileName="Wallet/ScanCard/ScanCardViewController.cs" Line="12" Column="1" />
+      <File FileName="AppDelegate.cs" Line="20" Column="3" />
+      <File FileName="Main.cs" Line="26" Column="27" />
+      <File FileName="MainViewController.cs" Line="37" Column="3" />
+      <File FileName="MainViewController.designer.cs" Line="26" Column="1" />
+      <File FileName="Wallet/WalletViewController.designer.cs" Line="14" Column="1" />
+      <File FileName="Wallet/MyCards/MyCardsViewController.cs" Line="14" Column="64" />
+      <File FileName="Wallet/InputCard/InputCardViewController.cs" Line="14" Column="68" />
+      <File FileName="Wallet/FAQ/FAQViewController.cs" Line="14" Column="56" />
+      <File FileName="Wallet/Contact/ContactViewController.cs" Line="32" Column="4" />
+      <File FileName="Wallet/Send/SendViewController.cs" Line="14" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Wallie" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>theView.Superview</Value>
+        </State>
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

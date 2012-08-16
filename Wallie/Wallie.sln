@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallie", "Wallie.csproj", "{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Debug|iPhone.Build.0 = Debug|iPhone
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Release|iPhone.Build.0 = Release|iPhone
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CD4CC980-C7A7-407F-A3F4-E6205BC0AE27}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Wallie.csproj
+	EndGlobalSection
+EndGlobal
