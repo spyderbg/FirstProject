@@ -1,0 +1,2 @@
+/Developer/MonoTouch/usr/bin/btouch -out=zbar.dll -e ZBar.cs AssemblyInfo.cs --link-with=libzbar.a,libzbar.a
+cp zbar.dll ./../Wallie/libs
