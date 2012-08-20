@@ -14,13 +14,15 @@
       <File FileName="Wallet/MyCards/MyCardsViewController.cs" Line="14" Column="64" />
       <File FileName="Wallet/InputCard/InputCardViewController.cs" Line="14" Column="68" />
       <File FileName="Wallet/FAQ/FAQViewController.cs" Line="14" Column="56" />
-      <File FileName="Wallet/Contact/ContactViewController.cs" Line="32" Column="4" />
+      <File FileName="Wallet/Contact/ContactViewController.cs" Line="36" Column="2" />
       <File FileName="Wallet/Send/SendViewController.cs" Line="14" Column="58" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Wallie" expanded="True" />
+          <Node name="Wallie" expanded="True">
+            <Node name="References" selected="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
